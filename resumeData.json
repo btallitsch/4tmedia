@@ -9,13 +9,13 @@
     "email": "bill.tallitsch@gmail.com",
     "phone": "267-205-3549",
     "address":{
-      "street":"(Your Street)",
+      "street":"50 Palm Lane",
       "city":"Philadelphia",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "state":"PA",
+      "zip": "19123"
     },
-    "website": "http://4tmedia.com",
-    "resumedownload":"http://4tmedia.com",
+    "website": "http://btallitsch.github.io/4tmedia",
+    "resumedownload":"http://btallitsch.github.io/4tmedia/resume",
     "social":[
       {
         "name":"github",
