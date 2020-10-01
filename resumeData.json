@@ -92,22 +92,22 @@
         "url":"https://btallitsch.github.io/4tmedia/images/portfolio/mcm.png"
       },
       {
-        "title":"Original Thai Food",
+        "title":"Early Adopter",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"early.png",
-        "url":"https://btallitsch.github.io/iqvia-dashboard"
+        "url":"https://btallitsch.github.io/4tmedia/images/portfolio/early.png"
       },
       {
-        "title":"Resume Website",
+        "title":"Optimizer",
         "category":"A React based resume website template",
         "image":"optimizer.png",
-        "url":"https://btallitsch.github.io/iqvia-dashboard"
+        "url":"https://btallitsch.github.io/4tmedia/images/portfolio/optimizer.png"
       },
       {
-        "title":"Smirkspace",
+        "title":"Opportunity Patient",
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"opportunity.png",
-        "url":"https://btallitsch.github.io/iqvia-dashboard"
+        "url":"https://btallitsch.github.io/4tmedia/images/portfolio/opportunity.png"
       }
     ]
   },
