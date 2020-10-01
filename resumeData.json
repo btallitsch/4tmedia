@@ -87,25 +87,25 @@
       },
       {
         "title":"MCM",
-        "category":"(offline now) A fighting gear company I started",
+        "category":"Display average MCM benchmark data",
         "image":"mcm.png",
         "url":"https://btallitsch.github.io/4tmedia/images/portfolio/mcm.png"
       },
       {
         "title":"Early Adopter",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "category":"Target physicians who are potential early adopters",
         "image":"early.png",
         "url":"https://btallitsch.github.io/4tmedia/images/portfolio/early.png"
       },
       {
         "title":"Optimizer",
-        "category":"A React based resume website template",
+        "category":"Run what if scenarios based on financial assumptions",
         "image":"optimizer.png",
         "url":"https://btallitsch.github.io/4tmedia/images/portfolio/optimizer.png"
       },
       {
         "title":"Opportunity Patient",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "category":"Input definitions for target lists",
         "image":"opportunity.png",
         "url":"https://btallitsch.github.io/4tmedia/images/portfolio/opportunity.png"
       }
