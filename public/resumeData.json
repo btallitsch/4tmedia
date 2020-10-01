@@ -80,10 +80,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Demo Dashboard",
+        "category":"Demo dashboard - enter any email/password",
+        "image":"demo-dash.png",
+        "url":"https://btallitsch.github.io/iqvia-dashboard"
       },
       {
         "title":"Fury Fighting Gear",
