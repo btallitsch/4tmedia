@@ -4,7 +4,7 @@
     "occupation":"Web Design",
     "description":"Curated design and development services for All digitally based business needs.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I am a UI Engineer from Philadelphia who recently relocated to Raleigh, NC. I make enterprise web applications, and I enjoy Star Wars.",
     "contactmessage":"Fill this out to get in contact with me quick.",
     "email": "bill.tallitsch@gmail.com",
     "phone": "267-205-3549",
@@ -35,7 +35,7 @@
         "school":"Art Institute of Philadelphia",
         "degree":"Web Design and Interactive Media",
         "graduated":"December 2008",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Custom enterprise web application development, utilizing big data, and machine learning."
       }
     ],
     "work":[
@@ -48,16 +48,12 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"JavaScript",
+        "level":"100%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"100%"
       },
       {
         "name":"CSS",
@@ -72,15 +68,19 @@
         "level":"50%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"AngularJs",
+        "level":"50%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Demo Dashboard",
+        "title":"IQVIA Demo Dashboard",
         "category":"Demo dashboard - enter any email/password",
         "image":"demo-dash.png",
         "url":"https://btallitsch.github.io/iqvia-dashboard"
